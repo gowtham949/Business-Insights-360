@@ -60,41 +60,45 @@ We are pulling data from 2 sources : MySQL and Excel
 
 We have 2 databases containing the following tables:
 
-gdb041:
+*gdb041:
 dim_customer
-27 distinct markets (ex India, USA, Spain)
-75 distinct customers throughout the market
+-27 distinct markets (ex India, USA, Spain)
+-75 distinct customers throughout the market
 2 types of platforms
-Brick & Motors - Physical/offline store
-E-commerce - Online Store (Amazon, Flipkart)
+-Brick & Motors - Physical/offline store
+-E-commerce - Online Store (Amazon, Flipkart)
 Three channels
-Retailer
-Direct
-Distributors
+-Retailer
+-Direct
+-Distributors
 dim_market
-27 distinct markets (ex India, USA, Spain)
-7 sub-zones
-4 regions
+-27 distinct markets (ex India, USA, Spain)
+-7 sub-zones
+-4 regions
 dim_product
-Divisions
-P & A
-PC
-N & S
+-Divisions
+-P & A
+-PC
+-N & S
 fact_forecast_monthly
-This table is used to forecast the customer’s needs in advance
+-This table is used to forecast the customer’s needs in advance
 fact_sales_monthly
-This table contains the sold quantity.
-gdb056
-freight_cost
-gross_price
-manufacturing_cost
-Pre_invoice_dedutions
-Post_invoice_deductions
-We are importing 3 Excel files as well:
+-This table contains the sold quantity.
 
-MarketShare: AtliQ and its competitors market share
-Operational Expenses: Ads & promotions and other expenses percentage per market
-targets: AtliQ's NS, GM, NP target data
+*gdb056:
+-freight_cost
+-gross_price
+-manufacturing_cost
+-Pre_invoice_dedutions
+-Post_invoice_deductions
+
+*We are importing 3 Excel files as well:
+-MarketShare: 
+AtliQ and its competitors market share
+-Operational Expenses: 
+Ads & promotions and other expenses percentage per market
+-Targets: 
+AtliQ's NS, GM, NP target data
 
 ### Tech stacks
 Tools used in this project:
