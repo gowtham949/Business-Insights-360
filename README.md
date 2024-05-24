@@ -1,14 +1,11 @@
-# Business-Insights-360
-
-Sure, here's a template for a README file for a Power BI .pbix file titled "Business Insights 360 Report":
-
----
 
 # Business Insights 360 Report
 
 ## Overview
 
 The "Business Insights 360 Report" is a comprehensive Power BI report designed to provide an in-depth analysis of key business metrics and performance indicators. This report aims to offer a 360-degree view of the business, facilitating data-driven decision-making and strategic planning.
+
+Live Report: [Business Insights 360](https://app.powerbi.com/links/9lMnN7XlPp?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare)
 
 ## Contents
 
@@ -52,12 +49,56 @@ The report contains several pages, each focusing on different aspects of busines
 - Access to the relevant data sources (e.g., databases, Excel files, cloud services)
 - Proper permissions to access and refresh the data
 
-### Installation
+### Data manuplation
+Dataset Understanding
+We are pulling data from 2 sources : MySQL and Excel
 
-1. Download the `Business_Insights_360_Report.pbix` file.
-2. Open the file using Power BI Desktop.
-3. Ensure that all data connections are correctly configured. You may need to update data source credentials and paths.
-4. Refresh the data to load the most recent information.
+We have 2 databases containing the following tables:
+
+gdb041:
+dim_customer
+27 distinct markets (ex India, USA, Spain)
+75 distinct customers throughout the market
+2 types of platforms
+Brick & Motors - Physical/offline store
+E-commerce - Online Store (Amazon, Flipkart)
+Three channels
+Retailer
+Direct
+Distributors
+dim_market
+27 distinct markets (ex India, USA, Spain)
+7 sub-zones
+4 regions
+dim_product
+Divisions
+P & A
+PC
+N & S
+fact_forecast_monthly
+This table is used to forecast the customer’s needs in advance
+fact_sales_monthly
+This table contains the sold quantity.
+gdb056
+freight_cost
+gross_price
+manufacturing_cost
+Pre_invoice_dedutions
+Post_invoice_deductions
+We are importing 3 Excel files as well:
+
+MarketShare: AtliQ and its competitors market share
+Operational Expenses: Ads & promotions and other expenses percentage per market
+targets: AtliQ's NS, GM, NP target data
+
+### Tech stacks
+Tools used in this project:
+SQL
+PowerBi Desktop
+Excel
+DAX language
+DAX studio (for optimizing the report)
+Project charter file
 
 ### Using the Report
 
