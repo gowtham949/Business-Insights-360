@@ -26,6 +26,7 @@ The report contains several pages, each focusing on different aspects of busines
    - Sales performance by region, product, and time period
    - Sales trends and seasonality
    - Top performing products and services
+    ![Screenshot 2024-05-23 163231](https://github.com/gowtham949/Business-Insights-360/assets/76685953/5b3307e7-a887-4967-add1-7315dcfa680e)
 
 3. **Financial Overview**
    - Revenue and expense breakdown
