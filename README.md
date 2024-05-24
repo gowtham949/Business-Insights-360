@@ -38,7 +38,7 @@ The report contains several pages, each focusing on different aspects of busines
    - Process performance metrics
    - Resource utilization
    - Supply chain and logistics analysis
-    ![Screenshot 2024-05-17 155058](https://github.com/gowtham949/Business-Insights-360/assets/76685953/4333906b-768f-4a0c-af5b-61390d4d5558)
+    
 
 5. **Marketing Performance**
    - Campaign performance and ROI
