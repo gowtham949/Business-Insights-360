@@ -44,7 +44,7 @@ The report contains several pages, each focusing on different aspects of busines
    - Campaign performance and ROI
    - Digital marketing metrics
    - Lead generation and conversion rates
-    
+    ![Screenshot 2024-05-23 163311](https://github.com/gowtham949/Business-Insights-360/assets/76685953/004e8723-f58c-44b7-9add-598866f245cf)
 
 ## Getting Started
 
