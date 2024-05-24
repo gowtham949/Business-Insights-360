@@ -102,12 +102,12 @@ AtliQ's NS, GM, NP target data
 
 ### Tech stacks
 Tools used in this project:
-SQL
-PowerBi Desktop
-Excel
-DAX language
-DAX studio (for optimizing the report)
-Project charter file
+- SQL
+- PowerBi Desktop
+- Excel
+- DAX language
+- DAX studio (for optimizing the report)
+- Project charter file
 
 ### Using the Report
 
