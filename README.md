@@ -60,39 +60,39 @@ We are pulling data from 2 sources : MySQL and Excel
 
 We have 2 databases containing the following tables:
 
-*gdb041:
-dim_customer
+###gdb041:
+####dim_customer
 -27 distinct markets (ex India, USA, Spain)
 -75 distinct customers throughout the market
-2 types of platforms
+####2 types of platforms
 -Brick & Motors - Physical/offline store
 -E-commerce - Online Store (Amazon, Flipkart)
-Three channels
+####Three channels
 -Retailer
 -Direct
 -Distributors
-dim_market
+####dim_market
 -27 distinct markets (ex India, USA, Spain)
 -7 sub-zones
 -4 regions
-dim_product
+####dim_product
 -Divisions
 -P & A
 -PC
 -N & S
-fact_forecast_monthly
+####fact_forecast_monthly
 -This table is used to forecast the customer’s needs in advance
-fact_sales_monthly
+####fact_sales_monthly
 -This table contains the sold quantity.
 
-*gdb056:
+###gdb056:
 -freight_cost
 -gross_price
 -manufacturing_cost
 -Pre_invoice_dedutions
 -Post_invoice_deductions
 
-*We are importing 3 Excel files as well:
+###We are importing 3 Excel files as well:
 -MarketShare: 
 AtliQ and its competitors market share
 -Operational Expenses: 
