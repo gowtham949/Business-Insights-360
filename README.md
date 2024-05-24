@@ -32,7 +32,8 @@ The report contains several pages, each focusing on different aspects of busines
    - Revenue and expense breakdown
    - Profit and loss statement
    - Financial ratios and metrics
-
+    ![Screenshot 2024-05-23 163202](https://github.com/gowtham949/Business-Insights-360/assets/76685953/4a694bd2-85c8-4ba7-80be-ef911cbe7517)
+ 
 4. **Supply Chain Overview**
    - Process performance metrics
    - Resource utilization
