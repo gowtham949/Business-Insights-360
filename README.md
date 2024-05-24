@@ -7,6 +7,10 @@ The "Business Insights 360 Report" is a comprehensive Power BI report designed t
 
 Live Report: [Business Insights 360](https://app.powerbi.com/links/9lMnN7XlPp?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare)
 
+AtliQ Hardware company is a hardware manufacturing company which is sellling many types of hardware components to multiple customers in world. As it is a Brick and motor business the challenging was collecting and analyzing the efficient data from diverse sources such as sql database, Excel sheets, and csv files. These Problems were Potentially delaying their ability to make informed business decisions for right decisions  or expansions.
+
+Develop an interactive report providing insights in Finance, Sales, Marketing, Supplychain, Executive teams using the mock-up dashboards as reference.
+
 ## Contents
 
 The report contains several pages, each focusing on different aspects of business performance:
@@ -15,6 +19,7 @@ The report contains several pages, each focusing on different aspects of busines
    - Key performance indicators (KPIs)
    - High-level business insights
    - Trends and forecasts
+
 
 2. **Sales Analysis**
    - Sales performance by region, product, and time period
@@ -26,17 +31,12 @@ The report contains several pages, each focusing on different aspects of busines
    - Profit and loss statement
    - Financial ratios and metrics
 
-4. **Customer Insights**
-   - Customer demographics and segmentation
-   - Customer acquisition and retention metrics
-   - Customer satisfaction and feedback
-
-5. **Operational Efficiency**
+4. **Supply Chain Overview**
    - Process performance metrics
    - Resource utilization
    - Supply chain and logistics analysis
 
-6. **Marketing Performance**
+5. **Marketing Performance**
    - Campaign performance and ROI
    - Digital marketing metrics
    - Lead generation and conversion rates
@@ -118,8 +118,8 @@ The report is designed to be easily customizable to fit your specific needs:
 
 If you encounter any issues or have any questions about the report, please contact:
 
-- **Email**: support@yourcompany.com
-- **Phone**: +1-800-123-4567
+- **Email**: gowthamsanaboyina@gmail.com
+- **Phone**: +447810003708
 
 ## Version History
 
@@ -133,7 +133,8 @@ This report is licensed under the [Your License Here].
 
 ## Acknowledgements
 
-We would like to thank the data analysis and IT teams for their support in creating this report.
+A huge shoutout to my mentors, Hemanand Vadivel and Dhaval Patel at Codebasics for their invaluable support and guidance.
+for analysis and their support in creating this report.
 
 ---
 
