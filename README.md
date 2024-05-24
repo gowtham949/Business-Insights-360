@@ -136,9 +136,6 @@ If you encounter any issues or have any questions about the report, please conta
 - **v1.1** - Minor bug fixes and performance improvements
 - **v1.2** - Added new page for marketing performance
 
-## License
-
-This report is licensed under the [Your License Here].
 
 ## Acknowledgements
 
