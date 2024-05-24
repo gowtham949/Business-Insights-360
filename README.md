@@ -19,6 +19,7 @@ The report contains several pages, each focusing on different aspects of busines
    - Key performance indicators (KPIs)
    - High-level business insights
    - Trends and forecasts
+    ![image](https://github.com/gowtham949/Business-Insights-360/assets/76685953/e5b4588c-0d97-4b92-923d-ba0c8011a41d)
 
 
 2. **Sales Analysis**
